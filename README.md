@@ -5,7 +5,7 @@
 Here, you can find the API documentation for developers on The Movie Database (TMDB). The TMDB API offers a comprehensive set of endpoints and data resources that enable developers to access a vast collection of movie-related information, including details about movies, TV shows, actors, genres, and more.
 </p>
 
-<p>To access the API documentation, please visit: [TMDB API Documentation] (https://developer.themoviedb.org/ )
+<p>To access the API documentation, please visit: [TMDB API Documentation](https://developer.themoviedb.org/ )
 
 
 </p>
